@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "630195665012",
+    "project_id": "formsapp-8525e",
+    "storage_bucket": "formsapp-8525e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630195665012:android:8f51b500db783a1b0c7921",
+        "android_client_info": {
+          "package_name": "com.appss.flutter_formapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630195665012-8f41rtde1gmnbolain9nrlak70897p6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTM_NqW2wV1KFbgBJ7giW3J4htTJjEEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630195665012-8f41rtde1gmnbolain9nrlak70897p6p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630195665012-n1o47fdmq990gcho4qie5k8qqut1leu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appss.flutterFormapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
